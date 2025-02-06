@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e342723e-baf5-4d60-85c0-f82672c696c3)![image](https://github.com/user-attachments/assets/846ffb96-0f71-4423-be1b-69e694de32bf)Bu bitirme projesinde, klasik ve popüler bir oyun olan Tetris'i yeniden tasarladım. Proje kapsamında İbrahim Cem BAYKAL hocamızın geliştirdiği ICBYTES kütüphanesini kullanarak oyunun temel mekaniklerini oluşturdum. 
+Bu bitirme projesinde, klasik ve popüler bir oyun olan Tetris'i yeniden tasarladım. Proje kapsamında İbrahim Cem BAYKAL hocamızın geliştirdiği ICBYTES kütüphanesini kullanarak oyunun temel mekaniklerini oluşturdum. 
 Amacım, programlama ve thread konusundaki bilgi ve becerilerimi geliştirmek hem de özgün bir deneyim sunan bir Tetris oyunu oluşturmaktı. Oyunda, geleneksel Japon müziği ve metal müziğin birleştiği 
 "Shamisen 三味線 x electric guitar x drum Relaxing Background Music for Working or Study - 和風" adlı müziği kullanarak oynanış atmosferini daha etkileyici hale getirdim.
 
@@ -11,6 +11,7 @@ Projeyi Çalıştırmak için olması gereken dizin yapısı:
     >Tetris.sln
 
 Proje yukarı anlatılan dizin yapısı haline getirildikten sonra Tetris.sln çalıştırılarak Visual Studio programı üzerinden Debug 64x te çalıştırılabilir.
+![image](https://github.com/user-attachments/assets/e8afffbc-43d8-4316-ba15-25c4adabe9c6)
 
 İlk çalışma işleminden sonra x64/Debug dizibi oluşur ve Debug un içinde Tetris.exe uygulama programı oluşur.
 >GraduationProject
@@ -38,4 +39,12 @@ Tetris.exe uygulamasından programı çalıştırmak için ;
     >Debug
       >Assets
       >Sound
-      >Tetris.exe 
+      >Tetris.exe
+
+![image](https://github.com/user-attachments/assets/03d71b9e-aa5d-4dec-939f-c655f54829a1)
+
+![image](https://github.com/user-attachments/assets/4d85a162-6c62-4b84-a616-afca20d5857c)
+
+![image](https://github.com/user-attachments/assets/e7ce7c21-e7c9-49c3-8d9a-eb9ba05a5d1a)
+
+
