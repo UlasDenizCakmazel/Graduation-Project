@@ -9,9 +9,7 @@ Projeyi Çalıştırmak için olması gereken dizin yapısı:
   >lib
 
   >Tetris
-
     >Tetris
-    
     >Tetris.sln
     
 ![image](https://github.com/user-attachments/assets/5b17c4d4-ffe5-40c6-9002-9baeb5924807)
