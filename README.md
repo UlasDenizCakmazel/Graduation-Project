@@ -14,11 +14,11 @@ Proje yukarı anlatılan dizin yapısı haline getirildikten sonra Tetris.sln ç
 ![image](https://github.com/user-attachments/assets/e8afffbc-43d8-4316-ba15-25c4adabe9c6)
 
 İlk çalışma işleminden sonra x64/Debug dizibi oluşur ve Debug un içinde Tetris.exe uygulama programı oluşur.
--GraduationProject
-  -include
-  -lib
-  -Tetris
-  -x64
+>GraduationProject
+  >include
+  >lib
+  >Tetris
+  >x64
     >Debug
       >Tetris.exe 
 
