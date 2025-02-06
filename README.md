@@ -26,7 +26,8 @@ Proje yukarı anlatılan dizin yapısı haline getirildikten sonra Tetris.sln ç
     >Debug
       >Tetris.exe 
 
-Tetris.exe uygulamasından programı çalıştırmak için ; 
+Tetris.exe uygulamasından programı çalıştırmak için;
+
   1- GraduationProject\Tetris\Tetris in içindeki Assets ve Sound klasörlerinin kopyalanmalı 
     >GraduationProject
       >include
@@ -34,6 +35,7 @@ Tetris.exe uygulamasından programı çalıştırmak için ;
       >Tetris
         >Assets *
         >Sound *
+        
   2- GraduationProject\Tetris\x64\Debug klasörünü içine yapıştırılmalı
     >GraduationProject
   >include
