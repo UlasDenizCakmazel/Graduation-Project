@@ -9,6 +9,10 @@ Projeyi Çalıştırmak için olması gereken dizin yapısı:
   >Tetris
     >Tetris
     >Tetris.sln
+![image](https://github.com/user-attachments/assets/5b17c4d4-ffe5-40c6-9002-9baeb5924807)
+
+![image](https://github.com/user-attachments/assets/4833f284-3a79-4b77-aa91-18cdf582e5dc)
+
 
 Proje yukarı anlatılan dizin yapısı haline getirildikten sonra Tetris.sln çalıştırılarak Visual Studio programı üzerinden Debug 64x te çalıştırılabilir.
 ![image](https://github.com/user-attachments/assets/e8afffbc-43d8-4316-ba15-25c4adabe9c6)
