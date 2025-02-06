@@ -1,10 +1,15 @@
 Bu bitirme projesinde, klasik ve popüler bir oyun olan Tetris'i yeniden tasarladım. Proje kapsamında İbrahim Cem BAYKAL hocamızın geliştirdiği ICBYTES kütüphanesini kullanarak oyunun temel mekaniklerini oluşturdum. Amacım, programlama ve thread konusundaki bilgi ve becerilerimi geliştirmek hem de özgün bir deneyim sunan bir Tetris oyunu oluşturmaktı. Oyunda, geleneksel Japon müziği ve metal müziğin birleştiği "Shamisen 三味線 x electric guitar x drum Relaxing Background Music for Working or Study - 和風" adlı müziği kullanarak oynanış atmosferini daha etkileyici hale getirdim.
 
 Projenin içerisindeki include ve lib dosyaları ICBYTES kütüphanesine aittir. Kütüphaneyi ve kütüphane kullanılarak yapılan basit örneklerin olduğu dosyayı indirmek için bu linke tıklayabilirsiniz.
+
 https://otoidrak.com/Yazilim.html
-Kütüphanenin dökümantasyon kitapları için linkler 
+
+Kütüphanenin dökümantasyon kitapları için linkler;
+
 Türkçe Döküman: https://otoidrak.com/doc/ICBYTES%20Basitleştirilmiş%20C++%20Kütüphanesi.pdf
+
 İngilizce Döküman: https://otoidrak.com/doc/I-See-Bytes%20A%20Simplified%20C++%20Library.pdf
+
 NOT:Dökümantasyonların güncelliği bir birleri arasında farklılık gösterebilir.
 
 Projeyi Çalıştırmak için olması gereken dizin yapısı:
