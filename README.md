@@ -10,7 +10,7 @@ Türkçe Döküman: https://otoidrak.com/doc/ICBYTES%20Basitleştirilmiş%20C++%
 
 İngilizce Döküman: https://otoidrak.com/doc/I-See-Bytes%20A%20Simplified%20C++%20Library.pdf
 
-NOT:Dökümantasyonların güncelliği bir birleri arasında farklılık gösterebilir.
+NOT : Dökümantasyonların güncelliği birbirleri arasında farklılık gösterebilir.
 
 Projeyi Çalıştırmak için olması gereken dizin yapısı:
 
