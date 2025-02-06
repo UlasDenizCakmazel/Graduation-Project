@@ -17,14 +17,14 @@ Tetris.exe uygulamasından programı çalıştırmak için;
   1- GraduationProject\Tetris\Tetris in içindeki Assets ve Sound klasörlerinin kopyalanmalı 
     >GraduationProject
     
-     ![image](https://github.com/user-attachments/assets/4d85a162-6c62-4b84-a616-afca20d5857c)
+ ![image](https://github.com/user-attachments/assets/4d85a162-6c62-4b84-a616-afca20d5857c)
         
   2- GraduationProject\Tetris\x64\Debug klasörünü içine yapıştırılmalı
   
-    ![image](https://github.com/user-attachments/assets/e7ce7c21-e7c9-49c3-8d9a-eb9ba05a5d1a)
+![image](https://github.com/user-attachments/assets/e7ce7c21-e7c9-49c3-8d9a-eb9ba05a5d1a)
     
 
-![image](https://github.com/user-attachments/assets/03d71b9e-aa5d-4dec-939f-c655f54829a1)
+    ![image](https://github.com/user-attachments/assets/03d71b9e-aa5d-4dec-939f-c655f54829a1)
 
 
 
